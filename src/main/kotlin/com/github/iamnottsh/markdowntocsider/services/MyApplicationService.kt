@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.iamnottsh.markdowntocsider.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.iamnottsh.markdowntocsider.MyBundle
 
 class MyApplicationService {
 
